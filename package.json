@@ -1,0 +1,7 @@
+{
+    "name": "ocean-estudo-fulstack-agosto-22",
+    "version": "1.0.0",
+    "scripts": {
+        "postinstall": "npn install --prefix backend"
+            }
+}
